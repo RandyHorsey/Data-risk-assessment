@@ -15,4 +15,4 @@ After reviewing the results of a risk assessment I had to determine whether effi
 
  <h4>
 Data leak worksheet: </h4>
-<img src="https://imgur.com/FTjCyaC.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/PJCFjvX.png" height="65%" width="70%" alt="Security Audit"/>
